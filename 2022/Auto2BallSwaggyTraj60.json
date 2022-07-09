@@ -1,12 +1,12 @@
 {
   "id": "60",
-  "name": "Auto2BallSwaggy0",
+  "name": "Auto2BallSwaggyTraj60",
   "reversed": false,
   "waypoints": [
     {
-      "x": 238,
-      "y": -120,
-      "theta": 135,
+      "x": 238.724,
+      "y": -120.230,
+      "theta": 136.5,
       "comment": ""
     },
     {
