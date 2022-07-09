@@ -1,0 +1,19 @@
+{
+  "id": "1",
+  "name": "Auto2BallSwaggy1",
+  "reversed": false,
+  "waypoints": [
+    {
+      "x": 195,
+      "y": -79,
+      "theta": 137,
+      "comment": ""
+    },
+    {
+      "x": 236,
+      "y": -37,
+      "theta": 0,
+      "comment": ""
+    }
+  ]
+}
