@@ -1,0 +1,25 @@
+{
+  "id": "51",
+  "name": "Auto1BallHangarTraj51",
+  "reversed": false,
+  "waypoints": [
+    {
+      "x": 199,
+      "y": -187,
+      "theta": -156,
+      "comment": ""
+    },
+    {
+      "x": 65,
+      "y": -134,
+      "theta": 90,
+      "comment": ""
+    },
+    {
+      "x": 235,
+      "y": -37,
+      "theta": 15,
+      "comment": ""
+    }
+  ]
+}

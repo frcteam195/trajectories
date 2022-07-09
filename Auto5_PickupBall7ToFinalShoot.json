@@ -1,0 +1,19 @@
+{
+  "id": 10,
+  "name": "Auto5_PickupBall7ToFinalShoot",
+  "reversed": false,
+  "waypoints": [
+    {
+      "x": 68.0,
+      "y": -265.0,
+      "theta": -145.0,
+      "comment": ""
+    },
+    {
+      "x": 135.0,
+      "y": -215.0,
+      "theta": -145.0,
+      "comment": ""
+    }
+  ]
+}
