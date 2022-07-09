@@ -1,0 +1,19 @@
+{
+  "id": 2,
+  "name": "Auto2_Start2ToPickupBall1",
+  "reversed": false,
+  "waypoints": [
+    {
+      "x": 238.7240157,
+      "y": -120.2307087,
+      "theta": 136.5,
+      "comment": ""
+    },
+    {
+      "x": 205.0,
+      "y": -85.0,
+      "theta": 135.0,
+      "comment": ""
+    }
+  ]
+}

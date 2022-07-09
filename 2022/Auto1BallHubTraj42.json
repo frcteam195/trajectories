@@ -1,0 +1,19 @@
+{
+  "id": "42",
+  "name": "Auto1BallHubTraj42",
+  "reversed": true,
+  "waypoints": [
+    {
+      "x": 236,
+      "y": -39,
+      "theta": -161,
+      "comment": ""
+    },
+    {
+      "x": 56,
+      "y": -74,
+      "theta": -160,
+      "comment": ""
+    }
+  ]
+}
