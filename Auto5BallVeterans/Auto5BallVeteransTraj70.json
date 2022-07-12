@@ -1,12 +1,12 @@
 {
-  "id": 70,
+  "id": "70",
   "name": "Auto5BallVeteransTraj70",
   "reversed": false,
   "waypoints": [
     {
-      "x": 346.78,
-      "y": -252.07,
-      "theta": -88.5,
+      "x": 346,
+      "y": -252,
+      "theta": -88,
       "comment": ""
     },
     {
@@ -16,8 +16,8 @@
       "comment": ""
     },
     {
-      "x": 200,
-      "y": -252,
+      "x": 215,
+      "y": -260,
       "theta": 148,
       "comment": ""
     }
