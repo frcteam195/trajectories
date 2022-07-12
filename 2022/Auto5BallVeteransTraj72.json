@@ -1,0 +1,19 @@
+{
+  "id": "72",
+  "name": "Auto5BallVeteransTraj72",
+  "reversed": false,
+  "waypoints": [
+    {
+      "x": 200,
+      "y": -252,
+      "theta": 148,
+      "comment": ""
+    },
+    {
+      "x": 57,
+      "y": -267,
+      "theta": -137,
+      "comment": ""
+    }
+  ]
+}
