@@ -21,5 +21,9 @@
       "theta": 148,
       "comment": ""
     }
-  ]
+  ],
+  "maxVel": 170,
+  "maxAccel": 100,
+  "maxVoltage": 10,
+  "maxCentripetalAccel": 60
 }
