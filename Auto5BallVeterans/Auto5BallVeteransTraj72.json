@@ -4,15 +4,15 @@
   "reversed": true,
   "waypoints": [
     {
-      "x": 61,
-      "y": -264,
+      "x": 64,
+      "y": -261,
       "theta": -137,
       "comment": ""
     },
     {
-      "x": 127,
-      "y": -222,
-      "theta": -137,
+      "x": 105,
+      "y": -230,
+      "theta": -147,
       "comment": ""
     }
   ]
