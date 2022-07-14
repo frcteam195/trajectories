@@ -10,20 +10,20 @@
       "comment": ""
     },
     {
-      "x": 80,
-      "y": -246,
-      "theta": -139,
+      "x": 70,
+      "y": -234,
+      "theta": -127,
       "comment": ""
     },
     {
-      "x": 64,
-      "y": -261,
-      "theta": -137,
+      "x": 61,
+      "y": -247,
+      "theta": -123,
       "comment": ""
     }
   ],
-  "maxVel": 200,
-  "maxAccel": 160,
-  "maxVoltage": 10,
-  "maxCentripetalAccel": 60
+  "maxVel": 220,
+  "maxAccel": 180,
+  "maxVoltage": 11,
+  "maxCentripetalAccel": 70
 }
