@@ -10,14 +10,14 @@
       "comment": ""
     },
     {
-      "x": 127,
-      "y": -222,
-      "theta": -142,
+      "x": 229,
+      "y": -256,
+      "theta": 170,
       "comment": ""
     }
   ],
-  "maxVel": 170,
-  "maxAccel": 100,
-  "maxVoltage": 10,
-  "maxCentripetalAccel": 60
+  "maxVel": 260,
+  "maxAccel": 200,
+  "maxVoltage": 11,
+  "maxCentripetalAccel": 80
 }

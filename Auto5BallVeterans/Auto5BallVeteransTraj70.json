@@ -22,8 +22,8 @@
       "comment": ""
     }
   ],
-  "maxVel": 170,
-  "maxAccel": 100,
+  "maxVel": 180,
+  "maxAccel": 140,
   "maxVoltage": 10,
   "maxCentripetalAccel": 60
 }
