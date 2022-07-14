@@ -1,19 +1,29 @@
 {
-  "id": 50,
+  "id": "50",
   "name": "Auto1BallHangarTraj50",
   "reversed": false,
   "waypoints": [
     {
-      "x": 238.685,
-      "y": -173.289,
+      "x": 238,
+      "y": -173,
       "theta": -156,
       "comment": ""
     },
     {
-      "x": 199,
-      "y": -187,
-      "theta": -156,
+      "x": 65,
+      "y": -134,
+      "theta": 90,
+      "comment": ""
+    },
+    {
+      "x": 235,
+      "y": -37,
+      "theta": 15,
       "comment": ""
     }
-  ]
+  ],
+  "maxVel": 220,
+  "maxAccel": 180,
+  "maxVoltage": 11,
+  "maxCentripetalAccel": 70
 }
