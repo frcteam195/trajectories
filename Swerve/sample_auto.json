@@ -1,0 +1,22 @@
+{
+    "id": 0,
+    "name": "sample_auto",
+    "reversed": false,
+    "waypoints": [
+      {
+        "x": 0,
+        "y": 0,
+        "track": 0,
+        "heading": 0,
+        "comment": ""
+      },
+      {
+        "x": 250,
+        "y": 0,
+        "track": 0,
+        "heading": 90,
+        "comment": ""
+      }
+    ]
+  }
+  
